@@ -3,6 +3,8 @@ cnc-maprenderer is a small tool written in C that uses the data files (.MIX file
 
 The tool isn't completely finished, and not currently actively being worked on, but can render most of the maps and levels of the game in its current form.
 
+![An example of the tool's output for the scb01ea map](example-output.png)
+
 ## Usage:
 After compilation (using `make`), the tool can be executed using `cnc-maprenderer <mapname>`.
 
