@@ -1,0 +1,2 @@
+Add caching of individual sprites to shp.c
+Add caching of shp_t instances to renderer.c
